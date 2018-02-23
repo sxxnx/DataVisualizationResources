@@ -4,6 +4,7 @@
    [HighCharts](https://www.highcharts.com)  
    [D3js](https://d3js.org)  
    [DimpleJS](http://dimplejs.org)  
+   [Plot.ly](https://plot.ly)  
    ## Charts models 📉
    [DataViz Catalogue](https://datavizcatalogue.com)  
    ## Online courses 🎓
