@@ -8,6 +8,7 @@
    ## Charts models 📉
    [DataViz Catalogue](https://datavizcatalogue.com)  
    [Choose the right chart](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
+   [Tour through the Visualization Zoo](https://queue.acm.org/detail.cfm?id=1805128)
    ## Online courses 🎓
    [Data Visualization and D3js](https://classroom.udacity.com/courses/ud507/)  
    # Online books 📚
