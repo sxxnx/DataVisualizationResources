@@ -1,7 +1,7 @@
    # Data Visualization Resources 📊
    Last update : 26/02/2018
    ## Tools 💻
-   [Chart.js](http://www.chartjs.org)
+   [Chart.js](http://www.chartjs.org)  
    [HighCharts](https://www.highcharts.com)  
    [D3js](https://d3js.org)  
    [DimpleJS](http://dimplejs.org)  
