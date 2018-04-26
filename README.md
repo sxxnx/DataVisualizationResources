@@ -17,6 +17,8 @@
    [D3 zoom manual](http://www.datamake.io/blog/d3-zoom)  
    ## Online books 📚
    [How to design charts and graphs](https://cdn2.hubspot.net/hub/53/file-863940581-pdf/Data_Visualization_101_How_to_Design_Charts_and_Graphs.pdf)  
+   ## Documentation  
+   [D3.js Read the docs](http://d3-wiki.readthedocs.io)
    ## Data Visualization blogs ✏️
    [Story Telling with Data](http://www.storytellingwithdata.com)  
    [Which chart is right for my data ?](http://labs.centerforgov.org/guides/dataviz/index.html)  
