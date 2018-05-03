@@ -1,5 +1,5 @@
    # Data Visualization Resources 📊
-   Last update : 26/04/2018
+   Last update : 03/05/2018
    ## Tools 💻
    [Chart.js](http://www.chartjs.org)  
    [HighCharts](https://www.highcharts.com)  
@@ -13,6 +13,7 @@
    ## Colors  
    [Find the right color palette](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283)  
    [Color Picker for data](http://tristen.ca/hcl-picker/#/hlc/3/1/956233/68353C)  
+   [I want hue](http://tools.medialab.sciences-po.fr/iwanthue/)  
    ## Online courses & tutorials 🎓
    [Data Visualization and D3js](https://classroom.udacity.com/courses/ud507/)  
    [D3 zoom manual](http://www.datamake.io/blog/d3-zoom)  
