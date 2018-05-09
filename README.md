@@ -1,5 +1,5 @@
    # Data Visualization Resources 📊
-   Last update : 03/05/2018
+   Last update : 09/05/2018
    ## Tools 💻
    [Chart.js](http://www.chartjs.org)  
    [HighCharts](https://www.highcharts.com)  
@@ -20,7 +20,8 @@
    ## Online books 📚
    [How to design charts and graphs](https://cdn2.hubspot.net/hub/53/file-863940581-pdf/Data_Visualization_101_How_to_Design_Charts_and_Graphs.pdf)  
    ## Documentation  
-   [D3.js Read the docs](http://d3-wiki.readthedocs.io)
+   [D3.js Read the docs](http://d3-wiki.readthedocs.io)  
+   [Code of ethics for Data Viz](https://visual.ly/blog/a-code-of-ethics-for-data-visualization-professionals/)  
    ## Data Visualization blogs ✏️
    [Story Telling with Data](http://www.storytellingwithdata.com)  
    [Which chart is right for my data ?](http://labs.centerforgov.org/guides/dataviz/index.html)  
