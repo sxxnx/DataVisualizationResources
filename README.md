@@ -1,5 +1,5 @@
    # Data Visualization Resources 📊
-   Last update : 09/05/2018
+   Last update : 28/03/2019  
    ## Tools 💻
    [Chart.js](http://www.chartjs.org)  
    [HighCharts](https://www.highcharts.com)  
