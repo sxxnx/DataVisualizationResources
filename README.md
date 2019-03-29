@@ -22,6 +22,8 @@
    ## Online books 📚
    [How to design charts and graphs](https://cdn2.hubspot.net/hub/53/file-863940581-pdf/Data_Visualization_101_How_to_Design_Charts_and_Graphs.pdf)  
    [Data Feminism](https://bookbook.pubpub.org/data-feminism)  
+   ## Front-end  
+   [CSS Animations generator](http://animista.net/play/)  
    ## Documentation  
    [D3.js Read the docs](http://d3-wiki.readthedocs.io)  
    [Code of ethics for Data Viz](https://visual.ly/blog/a-code-of-ethics-for-data-visualization-professionals/)  
